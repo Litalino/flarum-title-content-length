@@ -4,9 +4,6 @@
 
 A [Flarum](http://flarum.org) extension. Customize discussion title content length.
 
-PLugin Developer: datlechin/flarum-title-length
-
-PLugin Clone Co-development: Litalino/flarum-title-content-length
 
 ![Title Content Length](https://github.com/Litalino/flarum-title-content-length/assets/99712477/0a3415e6-e9fe-4932-840b-2e1850894e0f)
 
@@ -26,15 +23,10 @@ composer update litalino/flarum-title-content-length:"*"
 php flarum cache:clear
 ```
 
-### 1.1.0
-* Clone https://github.com/datlechin/flarum-title-length
-
 ### 1.0.0
-* Clone https://github.com/datlechin/flarum-title-length
 
 
 ## Links
 
 - [Packagist](https://packagist.org/packages/litalino/flarum-title-content-length)
 - [GitHub](https://github.com/litalino/flarum-title-content-length)
-- [Discuss](https://discuss.flarum.org/d/29924)
