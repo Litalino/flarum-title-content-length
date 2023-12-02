@@ -8,7 +8,7 @@ PLugin Developer: datlechin/flarum-title-length
 
 PLugin Clone Co-development: Litalino/flarum-title-content-length
 
-![Title Content Length](https://github.com/Litalino/flarum-title-content-length/assets/99712477/4d78cca8-192b-4a14-b744-264e2b8cd68c)
+![Title Content Length](https://github.com/Litalino/flarum-title-content-length/assets/99712477/0a3415e6-e9fe-4932-840b-2e1850894e0f)
 
 
 ## Installation
