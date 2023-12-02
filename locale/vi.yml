@@ -1,0 +1,21 @@
+litalino-title-content-length:
+  admin:
+    permissions:
+      bypass_title_label: Bỏ qua việc kiểm tra tiêu đề
+      bypass_content_label: Bỏ qua việc kiểm tra nội dung
+    settings:
+      limit_title_label: Bật giới hạn độ dài tiêu đề
+      limit_title_help: Cho phép sử dụng giới hạn độ dài tiêu đề tùy chỉnh. Nếu bị tắt, giới hạn độ dài tiêu đề mặc định của Flarum sẽ được sử dụng.
+      min_title_label: Độ dài tối thiểu
+      min_title_help: Độ dài tối thiểu của tiêu đề, giá trị tối thiểu là 15.
+      max_title_label: Độ dài tối đa
+      max_title_help: Độ dài tối đa của tiêu đề, giá trị tối đa là 200.
+      limit_content_label: Bật giới hạn độ dài nội dung
+      limit_content_help: Cho phép sử dụng giới hạn độ dài nội dung tùy chỉnh. Nếu bị tắt, giới hạn độ dài nội dung mặc định của Flarum sẽ được sử dụng.
+      min_content_label: Độ dài tối thiểu
+      min_content_help: Độ dài tối thiểu của nội dung, giá trị tối thiểu là 30.
+      max_content_label: Độ dài tối đa
+      max_content_help: Độ dài tối đa của nội dung, giá trị tối đa là 65535.
+
+
+  forum:

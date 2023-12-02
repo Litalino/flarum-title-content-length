@@ -1,0 +1,21 @@
+litalino-title-content-length:
+  admin:
+    permissions:
+      bypass_title_label: Skip header checking
+      bypass_content_label: Skip content checking
+    settings:
+      limit_title_label: Enable limit title length
+      limit_title_help: Enable to use custom title length limit. If disabled, the Flarum's default title length limit will be used.
+      min_title_label: Minimum length
+      min_title_help: The minimum length of the title, the minimum value is 15.
+      max_title_label: Maximum length
+      max_title_help: The maximum length of the title, the maximum value is 200.
+      limit_content_label: Enable limit content length
+      limit_content_help: Enable to use custom content length limit. If disabled, the Flarum's default content length limit will be used.
+      min_content_label: Minimum length
+      min_content_help: The minimum length of the content, the minimum value is 30.
+      max_content_label: Maximum length
+      max_content_help: The maximum length of the content, the maximum value is 65535.
+
+
+  forum:
